@@ -1,0 +1,35 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 300" role="img" aria-labelledby="title desc">
+  <title id="title">Sweta's profile banner</title>
+  <desc id="desc">A monochrome field of connected dots flowing toward a small terminal window.</desc>
+  <defs>
+    <pattern id="dots" width="9" height="9" patternUnits="userSpaceOnUse">
+      <circle cx="2" cy="2" r="1.35" fill="#e8e9f0" opacity=".78" />
+    </pattern>
+    <linearGradient id="fade" x1="0" x2="1">
+      <stop offset="0" stop-color="#f2f3fa" stop-opacity=".82" />
+      <stop offset=".72" stop-color="#b9c0d4" stop-opacity=".55" />
+      <stop offset="1" stop-color="#aab4ca" stop-opacity=".12" />
+    </linearGradient>
+    <linearGradient id="screen" x1="0" y1="0" x2="1" y2="1">
+      <stop stop-color="#12151d" />
+      <stop offset="1" stop-color="#0c0e14" />
+    </linearGradient>
+  </defs>
+  <rect width="1200" height="300" rx="18" fill="#0b0d12" />
+  <path d="M0 92 C105 63 175 76 260 119 C329 154 376 164 435 148 C475 137 491 112 522 104 L522 229 C455 232 409 207 362 194 C270 168 198 197 115 207 C71 212 35 207 0 194Z" fill="url(#dots)" />
+  <path d="M1200 75 C1110 57 1032 79 960 113 C898 143 853 161 797 150 C759 143 736 121 704 113 L704 228 C765 230 809 211 856 196 C940 169 1018 194 1091 208 C1134 216 1170 211 1200 201Z" fill="url(#dots)" />
+  <path d="M30 92 C155 64 210 100 294 141 C353 170 399 180 452 159" fill="none" stroke="url(#fade)" stroke-width="2" opacity=".7" />
+  <path d="M1170 80 C1069 65 1018 95 936 133 C877 161 829 177 777 157" fill="none" stroke="url(#fade)" stroke-width="2" opacity=".7" />
+  <g fill="#f4f5fa" opacity=".8">
+    <circle cx="354" cy="141" r="3"/><circle cx="383" cy="151" r="2"/><circle cx="414" cy="157" r="2.5"/>
+    <circle cx="843" cy="151" r="3"/><circle cx="816" cy="157" r="2"/><circle cx="786" cy="154" r="2.5"/>
+  </g>
+  <rect x="480" y="70" width="240" height="154" rx="8" fill="url(#screen)" stroke="#e7e9f0" stroke-opacity=".88" stroke-width="2" />
+  <path d="M480 94h240" stroke="#e7e9f0" stroke-opacity=".7" />
+  <circle cx="497" cy="82" r="3" fill="#fe428e"/><circle cx="510" cy="82" r="3" fill="#d7d7e0"/><circle cx="523" cy="82" r="3" fill="#c7c8d4"/>
+  <text x="545" y="85" fill="#bfc3d0" font-family="monospace" font-size="11">BUILD / SYSTEMS</text>
+  <text x="510" y="135" fill="#f1f2f6" font-family="monospace" font-size="17">$ design --carefully</text>
+  <text x="510" y="165" fill="#fe6fa8" font-family="monospace" font-size="16">&gt; reliable services</text>
+  <rect x="510" y="184" width="9" height="17" fill="#f1f2f6" opacity=".9" />
+  <path d="M454 148h22M724 148h22" stroke="#fe428e" stroke-width="2" opacity=".85" />
+</svg>
