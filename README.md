@@ -1,77 +1,31 @@
-<div align="center">
+# Hi there, I'm Sweta 👋
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0B1220,55:0F766E,100:38BDF8&height=190&section=header&text=Sweta&fontSize=54&fontColor=F8FAFC&fontAlignY=38&desc=Backend%20%7C%20Full-Stack%20Development&descAlignY=63&descSize=16" width="100%" alt="Sweta — backend and full-stack development" />
+### Backend-focused Software Developer · Full-Stack Builder
 
-<p><b>Backend APIs</b> &nbsp;·&nbsp; <b>Service architecture</b> &nbsp;·&nbsp; <b>Full-stack products</b></p>
+I build practical applications and the services behind them. I enjoy working across API design, service communication, data, and user-facing product features.
 
-</div>
-
-## About
-
-I build backend services and full-stack applications, with a current focus on **Java/Spring Boot**, **Node.js**, and product development with **React**. I like connecting the pieces: API design, persistence, service communication, and a clear interface.
-
-Currently exploring microservice architecture, API security, event-driven integrations, and containerized workflows through hands-on projects.
+- 🔭 **Building:** HealOps + MediFlow, a healthcare workflow demo with service monitoring and bounded recovery actions.
+- 🌱 **Exploring:** microservice architecture, API security, event-driven integrations, and containerized development.
+- 💡 **Interested in:** backend engineering, distributed systems, and thoughtful full-stack products.
 
 ## Selected work
 
-<table>
-<tr>
-<td width="50%" valign="top">
+| Project | What I built | Stack |
+|---|---|---|
+| [HealOps + MediFlow](https://github.com/Orange1008/healOPS) | Healthcare workflow demo with service health checks, incident tracking, an operations dashboard, and policy-based Docker recovery. | Java · Spring Boot · React · Docker Compose |
+| [Peblo](https://github.com/Orange1008/peblo) | AI study companion for notes, quizzes, flashcards, and learning insights. [Live demo](https://peblo-44dn.vercel.app) | Next.js · TypeScript · Express · MongoDB · Groq |
+| [StoryVerse](https://github.com/Orange1008/storyverse) | Visual novel platform for reading and creating stories with AI-assisted tools. [Live demo](https://storyverse-smoky.vercel.app) | React · Express · MongoDB · Generative AI |
+| [Data Analytics Dashboard](https://github.com/Orange1008/data-analytics-dashboard) | Full-stack analytics app with protected data views, filters, and interactive charts. | React · Node.js · MongoDB · Recharts |
+| [Admin–Employee Dashboard](https://github.com/Orange1008/Admin-Employee-Dashboard) | Role-based task dashboard with separate admin and employee workflows. | React · Vite · Tailwind CSS |
 
-### [HealOps + MediFlow](https://github.com/Orange1008/healOPS)
-Healthcare workflow demo with a service operations dashboard. HealOps monitors health, records incidents, and verifies bounded recovery actions.
+<details>
+<summary>More projects</summary>
 
-`Java` `Spring Boot` `React` `Docker Compose`
-
-</td>
-<td width="50%" valign="top">
-
-### [Peblo](https://github.com/Orange1008/peblo)
-AI study companion for notes, quizzes, flashcards, and learning insights.
-
-[Live demo ↗](https://peblo-44dn.vercel.app)<br />
-`Next.js` `TypeScript` `Express` `MongoDB` `Groq`
-
-</td>
-</tr>
-<tr>
-<td width="50%" valign="top">
-
-### [StoryVerse](https://github.com/Orange1008/storyverse)
-Visual novel platform for reading, writing, and publishing serialized stories with AI-assisted creation tools.
-
-[Live demo ↗](https://storyverse-smoky.vercel.app)<br />
-`React` `Express` `MongoDB` `Generative AI`
-
-</td>
-<td width="50%" valign="top">
-
-### [Data Analytics Dashboard](https://github.com/Orange1008/data-analytics-dashboard)
-Full-stack analytics app with protected data views, filters, and interactive charts.
-
-`React` `Node.js` `MongoDB` `Recharts`
-
-</td>
-</tr>
-<tr>
-<td width="50%" valign="top">
-
-### [Admin–Employee Dashboard](https://github.com/Orange1008/Admin-Employee-Dashboard)
-Role-based task dashboard with separate admin and employee workflows.
-
-`React` `Vite` `Tailwind CSS`
-
-</td>
-<td width="50%" valign="top">
-
-### More experiments
 [AI Resume Analyser](https://github.com/Orange1008/ai-resume-analyser) · [Weather App](https://github.com/Orange1008/weather-app) · [Backend Practice](https://github.com/Orange1008/backend) · [Rock-Paper-Scissors](https://github.com/Orange1008/stone-paper-game)
 
-</td>
-</tr>
-</table>
+</details>
 
-## Toolkit
+## Languages & tools
 
 <div align="center">
 
@@ -79,11 +33,11 @@ Role-based task dashboard with separate admin and employee workflows.
 
 </div>
 
-**Also used in project modules:** H2, PostgreSQL JDBC, Maven, JUnit, REST Assured, Spring Security, Spring Data JPA, Hibernate, Spring Cloud Gateway, Actuator/Micrometer, JWT, gRPC/Protocol Buffers, Server-Sent Events, AWS CDK, LocalStack, Cloudinary, Groq SDK, Google Generative AI, Recharts, Zustand, Framer Motion, PDF.js, OpenWeatherMap API, and Nginx.
+**Also used in project modules:** H2, PostgreSQL JDBC, Maven, JUnit, REST Assured, Spring Security, Spring Data JPA, Hibernate, Spring Cloud Gateway, Actuator/Micrometer, JWT, gRPC/Protocol Buffers, Server-Sent Events, AWS CDK, LocalStack, Cloudinary, Groq SDK, Google Generative AI, Recharts, Zustand, Framer Motion, PDF.js, and OpenWeatherMap API.
 
-*Some tools are used by optional services or individual experiments. Their presence here describes repository source, not necessarily the default runtime of every project.*
+*Some tools belong to optional services or individual experiments rather than every project's default runtime.*
 
-## GitHub at a glance
+## GitHub activity
 
 <div align="center">
 
@@ -95,7 +49,7 @@ Role-based task dashboard with separate admin and employee workflows.
 </div>
 
 <details>
-<summary>Contribution streak and contribution snake</summary>
+<summary>Contribution streak & snake</summary>
 <br />
 <div align="center">
 
@@ -106,9 +60,9 @@ Role-based task dashboard with separate admin and employee workflows.
 </div>
 </details>
 
-## Say hello
+## Connect
 
-[GitHub · @Orange1008](https://github.com/Orange1008)
+Find me here: [@Orange1008 on GitHub](https://github.com/Orange1008)
 
 <div align="center">
 <img src="https://komarev.com/ghpvc/?username=Orange1008&style=flat-square&color=0f766e&label=Profile+visits" alt="Profile visit counter" />
