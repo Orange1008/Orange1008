@@ -1,4 +1,4 @@
-# Hi there, I'm Sweta 👋
+# Hi there, I'm Sweta <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30" alt="Waving hand" />
 
 ### Backend-focused Software Developer · Full-Stack Builder
 
@@ -41,10 +41,10 @@ I build practical applications and the services behind them. I enjoy working acr
 
 <div align="center">
 
-<img height="160" src="https://github-readme-stats.vercel.app/api?username=Orange1008&show_icons=true&hide_border=true&bg_color=0d1117&title_color=67e8f9&icon_color=2dd4bf&text_color=c9d1d9&rank_icon=github" alt="GitHub profile statistics" />
-<img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Orange1008&layout=compact&hide_border=true&bg_color=0d1117&title_color=67e8f9&text_color=c9d1d9" alt="Top languages across public repositories" />
+<img height="165" src="https://github-readme-stats.vercel.app/api?username=Orange1008&show_icons=true&theme=radical&hide_border=true&rank_icon=github" alt="GitHub profile statistics" />
+<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Orange1008&layout=compact&theme=radical&hide_border=true" alt="Top languages across public repositories" />
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Orange1008&bg_color=0d1117&color=c9d1d9&line=2dd4bf&point=67e8f9&area=true&hide_border=true" width="96%" alt="GitHub contribution activity" />
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Orange1008&bg_color=141321&color=ffffff&line=fe428e&point=ffffff&area=true&hide_border=true" width="96%" alt="GitHub contribution activity" />
 
 </div>
 
@@ -53,7 +53,7 @@ I build practical applications and the services behind them. I enjoy working acr
 <br />
 <div align="center">
 
-<img src="https://streak-stats.demolab.com?user=Orange1008&theme=transparent&hide_border=true&ring=67e8f9&fire=2dd4bf&currStreakLabel=67e8f9" alt="GitHub contribution streak" />
+<img src="https://streak-stats.demolab.com?user=Orange1008&theme=radical&hide_border=true" alt="GitHub contribution streak" />
 
 <img src="https://raw.githubusercontent.com/Orange1008/Orange1008/output/github-contribution-grid-snake-dark.svg" width="96%" alt="Animated contribution graph snake" />
 
