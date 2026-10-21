@@ -2,14 +2,11 @@
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0B1220,55:0F766E,100:38BDF8&height=190&section=header&text=Sweta&fontSize=54&fontColor=F8FAFC&fontAlignY=38&desc=Backend%20%7C%20Full-Stack%20Development&descAlignY=63&descSize=16" width="100%" alt="Sweta — backend and full-stack development" />
 
-<a href="https://readme-typing-svg.demolab.com"><img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=17&duration=3000&pause=1000&color=67E8F9&center=true&vCenter=true&width=560&lines=I+build+useful+software;APIs+%E2%80%A2+services+%E2%80%A2+thoughtful+interfaces;Currently+exploring+distributed+systems" alt="Typing animation: I build useful software, APIs, services and thoughtful interfaces" /></a>
-
-[![GitHub](https://img.shields.io/badge/GitHub-Orange1008-111827?style=flat-square&logo=github)](https://github.com/Orange1008)
-[![Projects](https://img.shields.io/badge/Selected%20work-Explore-0F766E?style=flat-square&logo=github)](#selected-work)
+<p><b>Backend APIs</b> &nbsp;·&nbsp; <b>Service architecture</b> &nbsp;·&nbsp; <b>Full-stack products</b></p>
 
 </div>
 
-## Hi, I'm Sweta
+## About
 
 I build backend services and full-stack applications, with a current focus on **Java/Spring Boot**, **Node.js**, and product development with **React**. I like connecting the pieces: API design, persistence, service communication, and a clear interface.
 
