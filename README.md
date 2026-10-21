@@ -1,12 +1,16 @@
+<img align="right" src="assets/profile-photo.png" width="190" alt="Sweta's profile photo" />
+
 # Hi there, I'm Sweta <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30" alt="Waving hand" />
 
 ### Backend-focused Software Developer · Full-Stack Builder
 
-I build practical applications and the services behind them. I enjoy working across API design, service communication, data, and user-facing product features.
+I build practical applications and the services behind them, from API design and service communication to data and user-facing features.
 
 - 🔭 **Building:** HealOps + MediFlow, a healthcare workflow demo with service monitoring and bounded recovery actions.
 - 🌱 **Exploring:** microservice architecture, API security, event-driven integrations, and containerized development.
 - 💡 **Interested in:** backend engineering, distributed systems, and thoughtful full-stack products.
+
+<br clear="right" />
 
 ## Selected work
 
